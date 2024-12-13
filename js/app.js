@@ -1,5 +1,22 @@
 ///////////////////////////////////////////  1  M  /////////
 
+
+// const arr = [4, -5, 8, -6, -7, 3, 9, 8, 7, -5, 4, -1, 8, 9, 4, 7, -6];
+// const arr1 = [];
+// let arrLen = arr.length;
+
+// for (let i = 0; i < arrLen; i++) {
+//     let arrSon = arr[0];
+//     arr.splice(0, 1);
+//     console.log(arr)
+//     if (arr.includes(arrSon) == true) {
+//         true;
+//     } else {
+//         arr1.push(arr[0]);
+//     }
+// }
+// console.log(arr1);
+
 ///////////////////////////////////////////  2  M  /////////
 
 // const arr = [4, -5, 8, -6, -7, 3, 9, 8, 7, -5, 4, -1, 8, 9, 4, 7, -6];
@@ -8,6 +25,19 @@
 
 // for (let i = 0; i < arrLen; i++) {
 //     arr1.push(Math.abs(arr[i]));
+// }
+
+// console.log(arr1);
+
+
+
+
+// const arr = [4, -5, 8, -6, -7, 3, 9, 8, 7, -5, 4, -1, 8, 9, 4, 7, -6];
+// const arr1 = [];
+// let arrLen = arr.length;
+
+// for (let i = 0; i < arrLen; i++) {
+//     arr1.push((-1)*arr[i]);
 // }
 
 // console.log(arr1);
@@ -66,7 +96,20 @@
 
 ///////////////////////////////////////////  6  M  /////////
 
+// const arr = [4, -5, 8, -6, -7, 3, 9, 8, 7, -5, 4, -1, 8, 9, 4, 7, -6];
+// const arr1 = [];
+// let arrLen = arr.length;
 
+// for (let i = 0; i < arrLen; i++) {
+//     let arrSon = arr[0];
+//     arr.splice(0, 1);
+//     if (arr.includes(arrSon) != true) {
+//         true;
+//     } else {
+//         arr1.push(arr[0]);
+//     }
+// }
+// console.log(arr1);
 
 ///////////////////////////////////////////  7  M  /////////
 
